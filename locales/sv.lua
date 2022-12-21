@@ -12,14 +12,14 @@ local Translations = {
         ["citizenid_help"] = "Citizen ID:et på karaktären som du vill radera",
 
         -- /logout
-        ["logout_description"] = "Loggar ut ur din karaktär (Admin Endast)",
+        ["logout_description"] = "Loggar ut din karaktär (Endast Admin)",
 
         -- /closeNUI
         ["closeNUI_description"] = "Stänger ned karaktärs UI:et"
     },
 
     misc = {
-        ["droppedplayer"] = "Du har lämnat QB-Core"
+        ["droppedplayer"] = "Du har lämnat XR-RP"
     },
 
     ui = {
